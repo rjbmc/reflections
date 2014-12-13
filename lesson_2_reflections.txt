@@ -9,4 +9,5 @@ What are some situations when branches would be helpful in keeping your history 
 	When we are programming new functionalities, new versions with other features but the same base etc. 
 How do the diagrams help you visualize the branch structure?
 	The diagrams say to us where, in which point, the branch is born, what is the history of its develop and what is their relation with the main branch and other branches.
-	
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+	It results in that one of them disappears into the actual 'Head' and only one branch remains with the name of current 'Head' branch.
